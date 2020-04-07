@@ -43,7 +43,7 @@
 		"images/sprite9-sheet1.png",
 		"images/sprite9-sheet2.png",
 		"images/sprite9-sheet3.png",
-		"images/inténtalo-sheet0.png",
+		"images/intentalo-sheet0.png",
 		"images/otra_vez-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
